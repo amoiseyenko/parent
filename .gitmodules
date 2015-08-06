@@ -1,0 +1,3 @@
+[submodule "artifacts-common"]
+	path = artifacts-common
+	url = https://github.com/amoiseyenko/artifacts-common.git
